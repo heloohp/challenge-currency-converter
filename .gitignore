@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/out/
+/.idea/
+/.DS_Store
+/*.iml
+**/*.DS_Store
+.DS_Store
+**/.DS_Store
+src/.DS_Store
+config.properties
+target/
+*.iml
+*.class
+*.log
