@@ -61,6 +61,7 @@ API_KEY=SUA_API_KEY_AQUI
 4. Salve o arquivo.
 
 ⚠️ Importante: o arquivo config.properties não deve ser versionado, pois contém dados sensíveis (API Key).
+
 5. Execute a classe Main.java.
 6. Utilize o menu interativo no console para escolher a conversão e informar o valor desejado.
 
