@@ -33,6 +33,18 @@ O usuário escolhe a moeda de origem e destino e recebe o valor convertido, form
 
 ---
 
+## 🔹 API Utilizada
+
+Este projeto utiliza a **ExchangeRate API** para obter taxas de câmbio em tempo real.
+
+- Nome: ExchangeRate API  
+- Tipo: REST  
+- Formato de resposta: JSON  
+- Autenticação: API Key  
+- Site: https://www.exchangerate-api.com/
+
+---
+
 ## 🔹 Estrutura do Projeto
 
 <pre>challenge-currency-converter-java/
